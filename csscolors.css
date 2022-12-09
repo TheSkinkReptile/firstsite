@@ -1,0 +1,28 @@
+.color1 {
+    color: darkmagenta;
+}
+
+/* RGB - RedGreenBlue
+   00 - ff
+   f = 25 */
+.color2 {
+    color: #ff00ff;
+}
+
+.color3 {
+    color: #dba
+}
+
+/* 0-250 */
+.color4 {
+    color: rgb(0, 150, 50);
+    opacity: 0.5;
+}
+
+/* =same= */
+
+.color5 {
+    color: rgba(200, 110, 150, 0.2);
+}
+
+/* opacity: 0-1 */

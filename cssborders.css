@@ -1,0 +1,25 @@
+.border1 {
+    border-color: blueviolet;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.border2 {
+    border: 2px dashed blueviolet;
+}
+
+.border3 {
+    border: 2px solid darkorange;
+    border-radius: 60%;
+}
+
+/* top, bottom, left, right */
+.border4 {
+    border-bottom: 5px solid darkgreen;
+}
+
+.border5 {
+    border-left: 6px solid red;
+    background: lightsalmon;
+    padding-left: 5px;
+}

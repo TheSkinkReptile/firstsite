@@ -1,0 +1,13 @@
+/* Inline, Block, Inline-Block */
+
+.inline li {
+    display: inline;
+}
+
+.box {
+    width: 33%;
+    border: 1px solid black;
+    background: #abcdef;
+    display: inline-block;
+    box-sizing:border-box;
+}
